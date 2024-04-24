@@ -1,4 +1,1 @@
-# Fallstudie zum Kurs:
-IPWA01-01 – Programmierung von
-Webanwendungsoberflächen 
-Aufgabenstellung 1
+Aufgabenstellung 1 wurde bearbeitet
